@@ -5,4 +5,4 @@ Schematic
 ![alt text](images/Genius_Schematic)
 
 Prototype
-![alt text](images/GeniusPIC18F4520)
+![alt text](https://github.com/GustavoSMafra/Genius_PIC18F4520/blob/main/Images/Genius%20PIC18F4520.jpeg)
